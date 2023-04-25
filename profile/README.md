@@ -7,4 +7,4 @@ Most projects build with ESP8266 and compatible modules.
 **Stack**
 * Fronend: API or HTML/CSS/JavaScript
 * Backend: Python in Docker containers
-* Embeded: C-style/ArduinoIDE
+* Firmware: C++/ArduinoIDE
