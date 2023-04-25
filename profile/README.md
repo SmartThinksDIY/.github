@@ -13,11 +13,10 @@ Most projects build with ESP8266 and compatible modules.
 
 Temperature and humifity monitoring:
 
-[![](https://img.shields.io/github/stars/SmartThinksDIY/ESP8266-Relay-firmware?color=blue&label=ESP8266-Relay-firmware&logo=cplusplus&logoColor=blue&style=for-the-badge)](https://github.com/SmartThinksDIY/ESP8266-Relay-firmware)
-[![](https://img.shields.io/github/stars/SmartThinksDIY/ESP8266-Relay-tgbot?color=blue&label=ESP8266-Relay-tgbot&logo=python&logoColor=yellow&style=for-the-badge)](https://github.com/SmartThinksDIY/ESP8266-Relay-tgbot)
+[![](https://img.shields.io/github/stars/SmartThinksDIY/ESP8266-Relay-firmware?color=ff69b4&label=ESP8266-Relay-firmware&logo=cplusplus&style=for-the-badge)](https://github.com/SmartThinksDIY/ESP8266-Relay-firmware)
+[![](https://img.shields.io/github/stars/SmartThinksDIY/ESP8266-Relay-tgbot?color=success&label=ESP8266-Relay-tgbot&logo=python&style=for-the-badge)](https://github.com/SmartThinksDIY/ESP8266-Relay-tgbot)
 
 Remote relay control:
-[https://github.com/SmartThinksDIY/DHT11-api](https://github.com/SmartThinksDIY/NodeMCU-DHT11-firmware)
 
-[![](https://img.shields.io/github/stars/SmartThinksDIY/NodeMCU-DHT11-firmware?color=blue&label=NodeMCU-DHT11-firmware&logo=cplusplus&logoColor=blue&style=for-the-badge)](https://github.com/SmartThinksDIY/NodeMCU-DHT11-firmware)
-[![](https://img.shields.io/github/stars/SmartThinksDIY/DHT11-api?color=blue&label=DHT11-api&logo=fastapi&logoColor=yellow&style=for-the-badge)](https://github.com/SmartThinksDIY/DHT11-api)
+[![](https://img.shields.io/github/stars/SmartThinksDIY/NodeMCU-DHT11-firmware?color=ff69b4&label=NodeMCU-DHT11-firmware&logo=cplusplus&style=for-the-badge)](https://github.com/SmartThinksDIY/NodeMCU-DHT11-firmware)
+[![](https://img.shields.io/github/stars/SmartThinksDIY/DHT11-api?color=success&label=DHT11-api&logo=fastapi&style=for-the-badge)](https://github.com/SmartThinksDIY/DHT11-api)
