@@ -11,7 +11,7 @@ Most projects build with ESP8266 and compatible modules.
 
 **Projects**
 
-Temperature and humifity monitoring:
+Temperature and humidity monitoring:
 
 [![](https://img.shields.io/github/stars/SmartThinksDIY/ESP8266-Relay-firmware?color=ff69b4&label=ESP8266-Relay-firmware&logo=cplusplus&style=for-the-badge)](https://github.com/SmartThinksDIY/ESP8266-Relay-firmware)
 [![](https://img.shields.io/github/stars/SmartThinksDIY/ESP8266-Relay-tgbot?color=success&label=ESP8266-Relay-tgbot&logo=python&style=for-the-badge)](https://github.com/SmartThinksDIY/ESP8266-Relay-tgbot)
